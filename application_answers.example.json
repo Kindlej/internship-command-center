@@ -1,0 +1,17 @@
+{
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "country": "United States"
+  },
+  "work_authorization": "ASK_USER",
+  "requires_sponsorship": "ASK_USER",
+  "willing_to_relocate": "ASK_USER",
+  "salary_expectation": "ASK_USER",
+  "security_clearance": "ASK_USER",
+  "demographic_self_identification": "MANUAL",
+  "disability_self_identification": "MANUAL",
+  "criminal_history": "MANUAL"
+}
