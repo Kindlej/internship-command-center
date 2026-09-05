@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+python-docx
+playwright
+pypdf
+openai
+google-genai
+anthropic
