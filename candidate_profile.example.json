@@ -1,0 +1,21 @@
+{
+  "name": "Example Candidate",
+  "phone": "555-555-5555",
+  "email": "candidate@example.com",
+  "linkedin": "https://www.linkedin.com/in/example",
+  "github": "https://github.com/example",
+  "education": {
+    "school": "Example University",
+    "degree": "Bachelor of Science in Data Science",
+    "location": "Example City, ST",
+    "target_graduation": "Spring 2027",
+    "gpa": "3.60/4.00"
+  },
+  "verified_skills": ["Python", "SQL", "pandas", "Excel", "Tableau", "Power BI"],
+  "target_roles": ["Data Analyst Intern", "Data Science Intern", "Business Intelligence Intern"],
+  "experience": [],
+  "academic_projects": [],
+  "leadership": [],
+  "certifications": [],
+  "awards": []
+}
