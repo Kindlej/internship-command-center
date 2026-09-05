@@ -1,0 +1,15 @@
+.venv/
+.env
+.browser_profile/
+generated/
+applications.db
+__pycache__/
+*.pyc
+.connected_browser_profiles/
+connection_state.json
+profile_history/
+
+# Personal local profile data (never commit to public repositories)
+candidate_profile.json
+application_answers.json
+profile_attachments/
