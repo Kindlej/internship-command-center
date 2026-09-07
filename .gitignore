@@ -13,3 +13,7 @@ profile_history/
 candidate_profile.json
 application_answers.json
 profile_attachments/
+credential_evidence/
+credentials.json
+goal_settings.json
+resume_preferences.json
